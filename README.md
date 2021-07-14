@@ -1,6 +1,6 @@
 # Mechanics_Demo_Models_UCD
-These models demonstrate mechanical concepts for a fun walk in UCD.
-This work was done by Aidan Lee for the School of Mechanical and Materials Engineering, UCD.
+This repository contains the model designs for a "mechanics fun walk" in UCD, for the School of Mechanical and Materials Engineering.
+These models demonstrate mechanical concepts for educational and recreational purposes.
 
 This repository contains the model designs. Here, you will find:
 1. A parts list.
