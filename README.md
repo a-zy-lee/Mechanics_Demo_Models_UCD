@@ -7,7 +7,7 @@ This repository contains the model designs. Here, you will find:
 2. Accompanying informational graphics.
 3. CAD files for each part and the assembly of each model. The CAD files are included as both STP and the original IPT file. The IPT files can only be opened by Autodesk Inventor 2019 or newer.
 
-There are 9 models designed for a wood and acrylic construction (V1) and 2 models designed for a more robust milled aluminium construction (V2).
+There are 9 models designed for a wood and acrylic construction (V1) and 2 models designed for a milled aluminium construction (V2).
 
 These 9 models are:
 1. Brachistochrone
