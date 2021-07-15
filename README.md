@@ -20,4 +20,4 @@ These 9 models are:
 8. Tensegrity 
 9. Uphill Roller
 
-Of these, the Brachistochrone and Galton Board were also designed in aluminium.
+Of these, the Brachistochrone and Galton Board were designed for machined aluminium.
