@@ -4,7 +4,7 @@ These models demonstrate mechanical concepts for educational and recreational pu
 
 Here, you will find:
 1. Parts list (V2).
-2. Accompanying informational graphics.
+2. Accompanying informational graphics. These include transparent PNG files, which are intended to be printed onto transparent decals or vinyl stickers, and Powerpoint files, which are the accompanying instructions for the models.
 3. CAD files for each part and the assembly of each model. The CAD files are included as both STP and the original IPT file. The IPT files can only be opened by Autodesk Inventor 2019 or newer.
 
 There are 9 models designed for a wood and acrylic construction (V1) and 2 models designed for a machined aluminium construction (V2).
