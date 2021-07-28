@@ -2,7 +2,7 @@ The following are the chosen potential locations for the stops along the walk, i
 
 1. Sutherland School of Law (South Side)
 2. Sutherland School of Law (West Side)
-3. Quinn School of BUsiness
+3. Quinn School of Business
 4. Hopkins Centre / International Office
 5. Applied Language Centre
 6. Newman Building
