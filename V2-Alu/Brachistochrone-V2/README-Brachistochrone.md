@@ -10,6 +10,7 @@ A circular sticker (100mm diameter) should be stuck onto the "wheel". This stick
 The cycloid transparent sticker should be placed on the glass and aligned with 2 things:
 1. Dot on the sticker of the wheel, such that the marker is vertical and to the right, at the top of the cycloid.
 2. The path of the cycloid on the Brachistochrone curved paths.
+
 Refer to cycloid_alignment.png for alignment. The sticker file is BRN-21-transparentcycloidsticker-10.16cm.png and should be printed 10.16cm in height for correct scaling.
 
 
