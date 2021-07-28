@@ -3,7 +3,7 @@ This repository contains the model designs for a "mechanics fun walk" in UCD, fo
 These models demonstrate mechanical concepts for educational and recreational purposes.
 
 Here, you will find:
-1. Parts lists.
+1. Parts list (V2).
 2. Accompanying informational graphics.
 3. CAD files for each part and the assembly of each model. The CAD files are included as both STP and the original IPT file. The IPT files can only be opened by Autodesk Inventor 2019 or newer.
 
