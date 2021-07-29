@@ -22,3 +22,5 @@ These 9 models are:
 9. Uphill Roller
 
 Of these, the Brachistochrone, Galton Board and double pendulum were designed for machined aluminium.
+
+<img src="V2-Alu/GaltonBoard-V2/GaltonBoard-render-sticker.png">
