@@ -8,6 +8,7 @@ Here, you will find:
 3. Accompanying informational graphics. These include transparent PNG files, which are intended to be printed onto transparent decals or vinyl stickers, and Powerpoint files, which are the accompanying instructions for the models.
 4. Explanations document (Digital-explanations.docx). This contains the content to be placed in a webpage which will be linked to through a QR code on the instructional graphic.
 5. CAD files for each part and the assembly of each model. The CAD files are included as both STP and the original IPT file. The IPT files can only be opened by Autodesk Inventor 2019 or newer. A picture of each assembly is contained in the respective folders.
+6. Short report on the project.
 
 There are 9 models designed for a wood and acrylic construction (V1) and 2 models designed for a machined aluminium construction (V2).
 
