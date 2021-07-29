@@ -25,5 +25,4 @@ Of these, the Brachistochrone, Galton Board and double pendulum were designed fo
 
 <img src="V2-Alu/GaltonBoard-V2/GaltonBoard-render-sticker.png">
 <img src="V2-Alu/Brachistochrone-V2/BR-render-1.png">
-<img src="V2-Alu/Brachistochrone-V2/BR-render-2.png">
 <img src="/V2-Alu/DoublePendulum-V2/DoublePendulum-V2-renderwhitetransparent.png">
