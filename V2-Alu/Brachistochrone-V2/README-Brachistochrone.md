@@ -4,7 +4,7 @@ All parts were designed for CNC milling. The "starter" was designed such that it
 
 The curved paths are made of individual layers that are connected by 5 countersunk screws that sit flush against the back layer. 
 The front layer should face the 'outside'. The back layer should face the cycloid drawer.
-<Brachistochrone-v2.png>
+<img src="Brachistochrone-v2.png">
 
 The dimensions of the rail above the rack must be adjusted accordingly if different rollers are used. The rollers from RS-Online linked in PartsList-V2.xlsx are the correct dimensions.
 
