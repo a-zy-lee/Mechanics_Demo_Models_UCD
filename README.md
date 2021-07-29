@@ -3,7 +3,7 @@ This repository contains the model designs for a "mechanics fun walk" in UCD, fo
 These models demonstrate mechanical concepts for educational and recreational purposes.
 
 Here, you will find:
-1. Parts list spreadsheet (for V2 models).
+1. Parts list spreadsheets (2).
 2. List of checkpoints along the walk.
 3. Accompanying informational graphics. These include transparent PNG files, which are intended to be printed onto transparent decals or vinyl stickers, and Powerpoint files, which are the accompanying instructions for the models.
 4. Explanations document (Digital-explanations.docx). This contains the content to be placed in a webpage which will be linked to through a QR code on the instructional graphic.
